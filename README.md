@@ -4,8 +4,6 @@
 
 A research-grade Python application that applies **Gradient Boosting classification** to predict delay risk from project characteristics known at initiation, combined with **Monte Carlo simulation** for probabilistic duration forecasting.
 
-Built as an MSc application portfolio project in Construction Management \& Engineering.
-
 \---
 
 ## 📋 Table of Contents
@@ -249,23 +247,23 @@ Monte Carlo Forecast:
 
 ### Risk Assessment
 
-!\[Risk](assets/risk.png)
+![Risk](assets/risk.png)
 
 ### Model Performance
 
-!\[Model](assets/model.png)
+![Model](assets/model.png)
 
 ### Portfolio Analysis
 
-!\[Portfolio](assets/portfolio.png)
+![Portfolio](assets/portfolio.png)
 
 ### Monte Carlo Simulation
 
-!\[Simulation](assets/simulation.png)
+![Simulation](assets/simulation.png)
 
 ### Scenario Analysis
 
-!\[Scenarios](assets/scenarios.png)
+![Scenarios](assets/scenarios.png)
 
 \---
 
@@ -312,7 +310,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Developed as an MSc research portfolio project in Construction Management \& Engineering.
+Developed by Dan.Ghost
 Demonstrates machine learning applications in construction project risk management.
 
 \---
