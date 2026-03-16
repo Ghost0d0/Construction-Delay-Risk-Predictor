@@ -311,6 +311,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 Developed by Dan.Ghost
+
 Demonstrates machine learning applications in construction project risk management.
 
 \---
